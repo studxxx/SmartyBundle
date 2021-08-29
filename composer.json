@@ -1,5 +1,5 @@
 {
-    "name": "noiselabs/smarty-bundle",
+    "name": "studxxx/smarty-bundle",
     "type": "symfony-bundle",
     "description": "This Symfony bundle provides integration for the Smarty3 template engine.",
     "keywords": ["templating", "smarty", "symfony", "noiselabs"],
